@@ -20,6 +20,17 @@ gender.validGenders = [
             "guy",
             "man"
         ]
+    },
+	
+	
+    {
+        identity: "Helicopter",
+        acronyms: [
+            "Apache",
+            "Guns",
+            "Apache Helicopter",
+            "Rotorblades"
+        ]
     }
 ];
 
